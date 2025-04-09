@@ -27,6 +27,33 @@ Durante a pós-graduação, trabalhamos com:
 
 ---
 
+## 👥 Integrantes
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/matheus-o-f-ribeiro" title="Linkedin Matheus">
+                    <img src="https://avatars.githubusercontent.com/u/12617396?v=4" width="100px;"
+                        alt="Matheus Oliveira" />
+                </a>
+                <br />
+                <span style="font-weight: bold; font-size: 1.3rem">Matheus Oliveira</span>
+                <br />
+                <a href="https://www.linkedin.com/in/matheus-o-f-ribeiro" title="Linkedin Matheus">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"
+                        alt="Linkedin Matheus" />
+                </a>
+                <a href="https://github.com/matheusvp2" title="Github Matheus">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg"
+                        alt="Github Matheus" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 📦 Repositórios em Destaque || Trocar pelas FASES
 
 - [📁 Projeto Final - Arquitetura Completa](https://github.com/SEU_ORG/projeto-final): Solução completa com microsserviços, mensageria, observabilidade e deploy na nuvem.  
