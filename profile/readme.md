@@ -32,18 +32,20 @@ Durante a pós-graduação, trabalhamos com:
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://www.linkedin.com/in/matheus-o-f-ribeiro" title="Linkedin Matheus">
+                <a href="https://www.linkedin.com/in/matheus-o-f-ribeiro" 
+                    target="_blank" title="Linkedin Matheus">
                     <img src="https://avatars.githubusercontent.com/u/12617396?v=4" width="100px;"
                         alt="Matheus Oliveira" />
                 </a>
                 <br />
                 <span style="font-weight: bold; font-size: 1.3rem">Matheus Oliveira</span>
                 <br />
-                <a href="https://www.linkedin.com/in/matheus-o-f-ribeiro" title="Linkedin Matheus">
+                <a href="https://www.linkedin.com/in/matheus-o-f-ribeiro" 
+                target="_blank" title="Linkedin Matheus">
                     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"
                         alt="Linkedin Matheus" />
                 </a>
-                <a href="https://github.com/matheusvp2" title="Github Matheus">
+                <a href="https://github.com/matheusvp2" target="_blank" title="Github Matheus">
                     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg"
                         alt="Github Matheus" />
                 </a>
