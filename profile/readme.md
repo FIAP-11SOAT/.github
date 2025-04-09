@@ -12,21 +12,6 @@ Nosso objetivo é fomentar o aprendizado contínuo, a troca de experiências e a
 
 ---
 
-## 🧭 Temas e Tecnologias Abordados
-
-Durante a pós-graduação, trabalhamos com:
-
-- 🧱 **Arquitetura de Software Moderna:** Clean Architecture, Hexagonal, Onion, Microkernel  
-- ☁️ **Cloud Computing:** AWS, Azure, GCP  
-- 🧩 **Microsserviços:** Padrões, mensageria, orquestração e service mesh  
-- 🛰️ **Event-Driven Architecture:** Kafka, RabbitMQ, SQS  
-- 🔐 **Segurança:** OAuth2, JWT, API Gateway, Zero Trust  
-- 📊 **Observabilidade:** OpenTelemetry, Prometheus, Grafana  
-- 📚 **Documentação e Padrões:** ADRs, C4 Model, documentação viva  
-- 🔧 **DevOps e Infra como Código:** Docker, Kubernetes, Terraform, CI/CD  
-
----
-
 ## 👥 Integrantes
 <table>
     <tbody>
@@ -53,6 +38,21 @@ Durante a pós-graduação, trabalhamos com:
         </tr>
     </tbody>
 </table>
+
+---
+
+## 🧭 Temas e Tecnologias Abordados
+
+Durante a pós-graduação, trabalhamos com:
+
+- 🧱 **Arquitetura de Software Moderna:** Clean Architecture, Hexagonal, Onion, Microkernel  
+- ☁️ **Cloud Computing:** AWS, Azure, GCP  
+- 🧩 **Microsserviços:** Padrões, mensageria, orquestração e service mesh  
+- 🛰️ **Event-Driven Architecture:** Kafka, RabbitMQ, SQS  
+- 🔐 **Segurança:** OAuth2, JWT, API Gateway, Zero Trust  
+- 📊 **Observabilidade:** OpenTelemetry, Prometheus, Grafana  
+- 📚 **Documentação e Padrões:** ADRs, C4 Model, documentação viva  
+- 🔧 **DevOps e Infra como Código:** Docker, Kubernetes, Terraform, CI/CD  
 
 ---
 
