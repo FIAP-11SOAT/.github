@@ -74,7 +74,7 @@ Nosso objetivo é fomentar o aprendizado contínuo, a troca de experiências e a
             <td align="center">
                 <a href="https://www.linkedin.com/in/viniciussbranco/" 
                     target="_blank" title="Linkedin Vinícius Branco">
-                    <img src="https://avatars.githubusercontent.com/u/206149279?v=4" width="100px;"
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFhGVbdTiTqYg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725627748725?e=1749686400&v=beta&t=StpOII5sr4nNGIiPTw22xyT7pPkDfPQi3nSelyFLsf8" width="100px;"
                         alt="Vinícius Branco" />
                 </a>
                 <br />
