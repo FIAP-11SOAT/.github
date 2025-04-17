@@ -132,10 +132,7 @@ Durante a pós-graduação, trabalhamos com:
 
 ## 📦 Repositórios em Destaque || Trocar pelas FASES
 
-- [📁 Projeto Final - Arquitetura Completa](https://github.com/SEU_ORG/projeto-final): Solução completa com microsserviços, mensageria, observabilidade e deploy na nuvem.  
-- [📐 Exemplos de Padrões Arquiteturais](https://github.com/SEU_ORG/padroes-arquiteturais): Repositório com implementações práticas de padrões como CQRS, Saga, Event Sourcing, etc.  
-- [📘 Casos de Estudo](https://github.com/SEU_ORG/casos-de-estudo): Desafios propostos em aula com soluções colaborativas.  
-- [🧭 Guia da Arquitetura](https://github.com/SEU_ORG/guia): Referência com padrões, decisões arquiteturais e templates reutilizáveis.
+- [🍔 SOAT Tech Challenge - Totem de Pedido (Fase 1)](https://github.com/FIAP-11SOAT/totem-de-pedidos): Solução backend monolitica, de um sistema de autoatendimento.
 
 ---
 
