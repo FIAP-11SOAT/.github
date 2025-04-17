@@ -130,9 +130,9 @@ Durante a pós-graduação, trabalhamos com:
 
 ---
 
-## 📦 Repositórios em Destaque || Trocar pelas FASES
+## 📦 Repositórios em Destaque
 
-- [🍔 SOAT Tech Challenge - Totem de Pedido (Fase 1)](https://github.com/FIAP-11SOAT/totem-de-pedidos): Solução backend monolitica, de um sistema de autoatendimento.
+- [ 🍔 Totem de Pedido (Fase 1) ](https://github.com/FIAP-11SOAT/totem-de-pedidos): Solução backend monolitica, de um sistema de autoatendimento.
 
 ---
 
