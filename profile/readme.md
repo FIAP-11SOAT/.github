@@ -90,25 +90,6 @@ Nosso objetivo é fomentar o aprendizado contínuo, a troca de experiências e a
                         alt="Github Vinícius Branco" />
                 </a>
             </td>
-            <td align="center">
-                <a href="https://www.linkedin.com/in/lucasabrand%C3%A3o/" 
-                    target="_blank" title="Linkedin Lucas Brandão">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGTd8MMcjcUFQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719447869889?e=1749686400&v=beta&t=dKoQkDZk-zw6iTBYBhHX2jRwgekFDfEJH6YN5e8NzEI" width="100px;"
-                        alt="Lucas Brandão" />
-                </a>
-                <br />
-                <span style="font-weight: bold; font-size: 1.3rem">Lucas Brandão</span>
-                <br />
-                <a href="https://www.linkedin.com/in/lucasabrand%C3%A3o/" 
-                target="_blank" title="Linkedin Lucas Brandão">
-                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"
-                        alt="Linkedin Lucas Brandão" />
-                </a>
-                <a href="https://github.com/vinibrancodev" target="_blank" title="Github Lucas Brandão">
-                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg"
-                        alt="Github Lucas Brandão" />
-                </a>
-            </td>
         </tr>
     </tbody>
 </table>
