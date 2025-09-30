@@ -111,9 +111,21 @@ Durante a pós-graduação, trabalhamos com:
 
 ---
 
-## 📦 Repositórios em Destaque
+## Tech Challenge
 
-- [ 🍔 Totem de Pedido (Fase 1) ](https://github.com/FIAP-11SOAT/totem-de-pedidos): Solução backend monolitica, de um sistema de autoatendimento.
+O Tech Challenge é um projeto integrador desenvolvido ao longo das fases do curso, com o objetivo de aplicar na prática todos os conhecimentos adquiridos em cada etapa.
+
+- [🍔 Totem de Pedido (Fase 1)](https://github.com/FIAP-11SOAT/totem-de-pedidos): Solução backend monolitica, de um sistema de autoatendimento.
+
+- [🕸️ Totem de Pedido (Fase 2)](https://github.com/FIAP-11SOAT/fase2-totem-de-pedidos): Refatoração com Clean Architecture e deploy em Kubernetes.
+
+- [🍔 Totem de Pedido (Fase 3)](https://github.com/FIAP-11SOAT/fase3-totem-de-pedidos): Aplicação principal com API Gateway, autenticação serverless e CI/CD automatizado.
+
+  - [🏛️ Totem de Pedido Infra (Fase 3)](https://github.com/FIAP-11SOAT/fase3-infra-totem-de-pedidos): Infraestrutura Kubernetes provisionada com Terraform e pipelines CI/CD.
+
+  - [🛢 Totem de Pedido Database (Fase 3)](https://github.com/FIAP-11SOAT/fase3-database-totem-de-pedidos): Banco de dados gerenciável provisionado via Terraform com modelagem otimizada.avés da Arquitetura de Software.
+
+  - [🔗 Totem de Pedido Lambda (Fase 3)](https://github.com/FIAP-11SOAT/fase3-lambda-totem-de-pedidos): Function serverless para autenticação de clientes via CPF e JWT.
 
 ---
 
