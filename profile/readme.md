@@ -90,6 +90,25 @@ Nosso objetivo é fomentar o aprendizado contínuo, a troca de experiências e a
                         alt="Github Vinícius Branco" />
                 </a>
             </td>
+            <td align="center">
+                <a href="" 
+                    target="_blank" title="Linkedin Amanda Costa">
+                    <img src="https://avatars.githubusercontent.com/u/106614499?v=4" width="100px;"
+                        alt="Amanda Costa" />
+                </a>
+                <br />
+                <span style="font-weight: bold; font-size: 1.3rem">Amanda Costa</span>
+                <br />
+                <a href="https://www.linkedin.com/in/amandacosta94/" 
+                target="_blank" title="Linkedin Amanda Costa">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"
+                        alt="Linkedin Amanda Costa" />
+                </a>
+                <a href="https://github.com/mandacosta" target="_blank" title="Github Amanda Costa">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg"
+                        alt="Github Amanda Costa" />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
