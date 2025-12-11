@@ -72,25 +72,6 @@ Nosso objetivo é fomentar o aprendizado contínuo, a troca de experiências e a
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.linkedin.com/in/viniciussbranco/" 
-                    target="_blank" title="Linkedin Vinícius Branco">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFhGVbdTiTqYg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725627748725?e=1749686400&v=beta&t=StpOII5sr4nNGIiPTw22xyT7pPkDfPQi3nSelyFLsf8" width="100px;"
-                        alt="Vinícius Branco" />
-                </a>
-                <br />
-                <span style="font-weight: bold; font-size: 1.3rem">Vinícius Branco</span>
-                <br />
-                <a href="https://www.linkedin.com/in/viniciussbranco/" 
-                target="_blank" title="Linkedin Vinícius Branco">
-                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"
-                        alt="Linkedin Vinícius Branco" />
-                </a>
-                <a href="https://github.com/vinibrancodev" target="_blank" title="Github Vinícius Branco">
-                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg"
-                        alt="Github Vinícius Branco" />
-                </a>
-            </td>
-            <td align="center">
                 <a href="" 
                     target="_blank" title="Linkedin Amanda Costa">
                     <img src="https://avatars.githubusercontent.com/u/106614499?v=4" width="100px;"
