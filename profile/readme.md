@@ -53,25 +53,6 @@ Nosso objetivo é fomentar o aprendizado contínuo, a troca de experiências e a
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.linkedin.com/in/alexandre-baiocco-432b261aa/" 
-                    target="_blank" title="Linkedin Alexandre Baiocco">
-                    <img src="https://avatars.githubusercontent.com/u/153855387?v=4" width="100px;"
-                        alt="Alexandre Baiocco" />
-                </a>
-                <br />
-                <span style="font-weight: bold; font-size: 1.3rem">Alexandre Baiocco</span>
-                <br />
-                <a href="https://www.linkedin.com/in/alexandre-baiocco-432b261aa/" 
-                target="_blank" title="Linkedin Alexandre Baiocco">
-                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg"
-                        alt="Linkedin Alexandre Baiocco" />
-                </a>
-                <a href="https://github.com/Baiokis" target="_blank" title="Github Alexandre Baiocco">
-                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg"
-                        alt="Github Alexandre Baiocco" />
-                </a>
-            </td>
-            <td align="center">
                 <a href="" 
                     target="_blank" title="Linkedin Amanda Costa">
                     <img src="https://avatars.githubusercontent.com/u/106614499?v=4" width="100px;"
