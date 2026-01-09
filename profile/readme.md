@@ -108,6 +108,8 @@ O Tech Challenge é um projeto integrador desenvolvido ao longo das fases do cur
  
 - [🖥️Totem de Pedido APP (Fase 3)](https://github.com/FIAP-11SOAT/fase3-app-totem-de-pedidos): implementação do sistema de autoatendimento para uma lanchonete.
 
+- [🔗 Totem de Pedido Infra de Microsserviços (Fase 4)](https://github.com/FIAP-11SOAT/fase4-infra-microservices): implementação do sistema de pedidos da lanchonete em microsserviços
+
 ---
 
 ## 🎓 Sobre a Pós
